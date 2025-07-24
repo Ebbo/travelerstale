@@ -17,7 +17,6 @@ An AI-powered collaborative storytelling service where up to 6 players can come 
 - **FastAPI**: Web framework with WebSocket support
 - **OpenAI API**: GPT-4 for story generation
 - **ElevenLabs API**: AI voice synthesis
-- **Pygame**: Audio playback system
 - **WebSockets**: Real-time communication
 
 ### Frontend (Svelte)
