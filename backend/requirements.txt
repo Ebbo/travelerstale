@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+openai
+elevenlabs
+python-multipart
+pydantic
+python-dotenv
+aiofiles
